@@ -1,0 +1,1 @@
+(()=>{var r,o={802:(r,o,t)=>{var e=t(992);r.exports=function(r){for(var o=1;0!==r;)o=e(o,r),r-=1;return o}},992:r=>{r.exports=function(r,o){return r*o}}},t={};r=function r(e){if(t[e])return t[e].exports;var n=t[e]={exports:{}};return o[e](n,n.exports,r),n.exports}(802),console.log("Factorial of 4 is "+r(4))})();
